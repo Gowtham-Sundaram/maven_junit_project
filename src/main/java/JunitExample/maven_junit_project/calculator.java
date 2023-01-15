@@ -7,7 +7,6 @@ public class calculator {
 		for (int i : a) {
 			sum += i;
 		}
-		
 		return sum;
 	}
 
